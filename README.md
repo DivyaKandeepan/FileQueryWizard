@@ -31,7 +31,7 @@ This will start the Streamlit application, and you should see it open in your we
 
 ### Handling CSV Files
 
-5. If you uploaded a CSV file among your documents and have a question related to it, the chatbot can also answer questions from CSV data. Enter your question in the input box and click "Submit." The chatbot will use a Hugging Face table-question-answering pipeline to provide answers based on the CSV data.
+5. If you uploaded a CSV file among your documents and have a question related to it, the chatbot can also answer questions from CSV data. Enter your question in the input box and click Enter. The chatbot will use a Hugging Face table-question-answering pipeline to provide answers based on the CSV data.
 
 ## Features
 
