@@ -1,6 +1,6 @@
 # FileQueryWizard
 
-FileQueryWizard is a simple multi-file chatbot application that allows you to upload and process various types of documents, such as PDFs, DOCX files, and text files, and then interactively chat with the chatbot to retrieve information or answers from these documents. The chatbot uses language models and embeddings for document retrieval and answering questions.
+FileQueryWizard is a multi-file chatbot application that allows you to upload and process various types of documents, such as PDFs, DOCX files, and text files, and then interactively chat with the chatbot to retrieve information or answers from these documents. The chatbot uses language models and embeddings for document retrieval and answering questions.
 
 ## Getting Started
 
